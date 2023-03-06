@@ -1,0 +1,9 @@
+{
+  "title": "Metadata",
+  "type": "object",
+  "properties": {
+      "icon": "https://nftsguru.com/wp-content/uploads/2022/05/NFT-Art-Size.png",
+      "description": "An image",
+      "target": "https://airblock.ai"
+  }
+}
